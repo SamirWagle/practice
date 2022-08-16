@@ -1,0 +1,3 @@
+this is the first file to be connected with git 
+i am going to check whether it is being connected with git or not......
+lets seee it in git bash and github. 
